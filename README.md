@@ -15,3 +15,7 @@ install.sh creates a Desktop shortcut for easy access.
 You can add and remove your Wireguard config files and connect and disconnect a VPN tunnle.
 
 ## Screenshots
+![Screenshot1](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot1.png)
+![Screenshot2](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot2.png)
+![Screenshot3](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot3.png)
+![Screenshot4](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot4.png)
