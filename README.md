@@ -17,5 +17,6 @@ You can add and remove your Wireguard config files and connect and disconnect a 
 ## Screenshots
 ![Screenshot1](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot1.png)
 ![Screenshot2](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot2.png)
+To establish a wireguard VPN tunnel you need admin/root rights. So each time you want to connect to a wireguard Server/partner you need to input the admin/root password. In the background Wireguard wants to create new network tunnel interface and that is only possible with root/admin credentials
 ![Screenshot3](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot3.png)
 ![Screenshot4](https://github.com/SuitDeer/wggl/raw/main/Screenshots/screenshot4.png)
