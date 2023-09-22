@@ -3,12 +3,11 @@ GUI to manage your Wireguard VPN Connection with a graphical interface
 GUI VPN Client for Linux-Distros.
 ## Requirements
 - wireguard must be installed.
-
 - wireguard-tools must be installed.
-
 - zenity must be installed if not already installed.
+- resolvconf must be installed if not already installed.
 ```bash
-sudo apt install wireguard wireguard-tools zenity
+sudo apt install wireguard wireguard-tools zenity resolvconf
 ```
 ## Installation
 1. Download install.sh
